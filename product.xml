@@ -24,10 +24,10 @@
 <option>
   <optionItem>
       <type>SELECT</type>
-      <name><![CDATA[하프문아이즈 핑크프루티]]></name>
+      <name>하프문아이즈 핑크프루티</name>
       <value>
           <id>5807</id>
-          <text><![CDATA[핑크프루티 용과팩 대용량(40g) 2개+해면까지!]]></text>
+          <text>핑크프루티 용과팩 대용량(40g) 2개+해면까지</text>
       </value>
   </optionItem>
 </option>

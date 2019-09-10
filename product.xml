@@ -1,84 +1,34 @@
 <products>
-    <product>
-        <id>101894760</id>
-        <ecMallProductId>101894760</ecMallProductId>
-        <name>옵션 있는 상품</name>
-        <basePrice>10000</basePrice>
-        <taxType>TAX</taxType>
-        <infoUrl>http://daon10.shopby.co.kr/common/product.html?pno=101894760</infoUrl>
-        <imageUrl>http://rlyfaazj0.cdn.toastcloud.com/SERVICE/20190403/1000000011_detail_031.png</imageUrl>
-        <productStatus>ON_SALE</productStatus>
-        <optionSupport>true</optionSupport>
-        <returnShippingFee>5000</returnShippingFee>
-        <exchangeShippingFee>5000</exchangeShippingFee>
-        <returnInfo>
-            <zipcode>1234</zipcode>
-            <address1>반송지</address1>
-            <address2>NHN 7층</address2>
-            <sellerName>ezoadtcz0zrc</sellerName>
-        </returnInfo>
-        <option>
-            <optionItem>
-                <type>SELECT</type>
-                <name>컬러</name>
-                <value>
-                    <id>1624843348</id>
-                    <text>레드</text>
-                    <status>true</status>
-                </value>
-            </optionItem>
-            <optionItem>
-                <type>SELECT</type>
-                <name>사이즈</name>
-                <value>
-                    <id>-120674300</id>
-                    <text>라지</text>
-                    <status>true</status>
-                </value>
-                <value>
-                    <id>-120589620</id>
-                    <text>스몰</text>
-                    <status>true</status>
-                </value>
-            </optionItem>
-            <combination>
-                <manageCode>35470374</manageCode>
-                <price>0</price>
-                <stockQuantity>999</stockQuantity>
-                <status>true</status>
-                <options>
-                    <name>컬러</name>
-                    <id>1624843348</id>
-                </options>
-                <options>
-                    <name>사이즈</name>
-                    <id>-120674300</id>
-                </options>
-            </combination>
-            <combination>
-                <manageCode>35470372</manageCode>
-                <price>0</price>
-                <stockQuantity>999</stockQuantity>
-                <status>true</status>
-                <options>
-                    <name>컬러</name>
-                    <id>1624843348</id>
-                </options>
-                <options>
-                    <name>사이즈</name>
-                    <id>-120589620</id>
-                </options>
-            </combination>
-        </option>
-        <shippingPolicy>
-            <groupId>GROUP_0</groupId>
-            <method>DELIVERY</method>
-            <feeType>FREE</feeType>
-            <feePayType>FREE</feePayType>
-            <feePrice>0</feePrice>
-            <surchargeByArea>
-                <apiSupport>true</apiSupport>
-            </surchargeByArea>
-        </shippingPolicy>
-    </product>
+<product>
+<id>0000000946</id>
+<name>핑크프루티 용과팩 대용량 튜브형(40g) 2개+해면까지!</name>
+<basePrice>11500</basePrice>
+<infoUrl>http://wallavu.com/shop/goodsView/0000000946</infoUrl>
+<imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/09/46/m_0000000946.gif</imageUrl>
+<shippingPolicy>
+<groupId>103</groupId>
+<method>DELIVERY</method>
+<feePayType>PREPAYED</feePayType>
+<feeType>CONDITIONAL_FREE</feeType>
+<feePrice>2500</feePrice>
+<conditionalFree>
+  <basePrice>9800</basePrice>
+</conditionalFree>
+  <surchargeByArea>
+      <splitUnit>3</splitUnit>
+      <area2Price>4000</area2Price>
+      <area3Price>5000</area3Price>
+  </surchargeByArea>
+</shippingPolicy>
+<option>
+  <optionItem>
+      <type>SELECT</type>
+      <name>하프문아이즈 핑크프루티</name>
+      <value>
+          <id>5807</id>
+          <text>핑크프루티 용과팩 대용량(40g) 2개+해면까지!</text>
+      </value>
+  </optionItem>
+</option>
+</product>
 </products>

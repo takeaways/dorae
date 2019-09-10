@@ -5,6 +5,7 @@
 <basePrice>11500</basePrice>
 <infoUrl>http://wallavu.com/shop/goodsView/0000000946</infoUrl>
 <imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/09/46/m_0000000946.gif</imageUrl>
+<optionSupport>true</optionSupport>
 <shippingPolicy>
 <groupId>103</groupId>
 <method>DELIVERY</method>

@@ -1,7 +1,7 @@
 <products>
 <product>
 <id>0000000946</id>
-<name>핑크프루티 용과팩 대용량 튜브형(40g) 2개+해면까지!</name>
+<name><![CDATA[핑크프루티 용과팩 대용량 튜브형(40g) 2개+해면까지!]]></name>
 <basePrice>11500</basePrice>
 <infoUrl>http://wallavu.com/shop/goodsView/0000000946</infoUrl>
 <imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/09/46/m_0000000946.gif</imageUrl>
@@ -23,10 +23,10 @@
 <option>
   <optionItem>
       <type>SELECT</type>
-      <name>하프문아이즈 핑크프루티</name>
+      <name><![CDATA[하프문아이즈 핑크프루티]]></name>
       <value>
           <id>5807</id>
-          <text>핑크프루티 용과팩 대용량(40g) 2개+해면까지!</text>
+          <text><![CDATA[핑크프루티 용과팩 대용량(40g) 2개+해면까지!]]></text>
       </value>
   </optionItem>
 </option>

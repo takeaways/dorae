@@ -1,33 +1,30 @@
 <products>
 <product>
-<id>0000000946</id>
-<name><![CDATA[핑크프루티 용과팩 대용량 튜브형(40g) 2개+해면까지!]]></name>
-<basePrice>11500</basePrice>
-<infoUrl>http://wallavu.com/shop/goodsView/0000000946</infoUrl>
-<imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/09/46/m_0000000946.gif</imageUrl>
+<id>0000003044</id>
+<name>이니스프리 9종 최대 59% 할인! 만원이상 구매시 에코백 증정</name>
+<basePrice>2500</basePrice>
+<infoUrl>http://wallavu.com/shop/goodsView/0000003044</infoUrl>
+<imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/30/44/m_0000003044.gif</imageUrl>
 <optionSupport>true</optionSupport>
 <shippingPolicy>
-<groupId>103</groupId>
+<groupId>48</groupId>
 <method>DELIVERY</method>
 <feePayType>PREPAYED</feePayType>
-<feeType>CONDITIONAL_FREE</feeType>
+<feeType>PREPAYED</feeType>
 <feePrice>2500</feePrice>
-<conditionalFree>
-  <basePrice>9800</basePrice>
-</conditionalFree>
   <surchargeByArea>
       <splitUnit>3</splitUnit>
-      <area2Price>4000</area2Price>
+      <area2Price>3000</area2Price>
       <area3Price>5000</area3Price>
   </surchargeByArea>
 </shippingPolicy>
 <option>
   <optionItem>
       <type>SELECT</type>
-      <name>하프문아이즈 핑크프루티</name>
+      <name>옵션</name>
       <value>
-          <id>5807</id>
-          <text>핑크프루티 용과팩 대용량(40g) 2개+해면까지!</text>
+          <id>14361</id>
+          <text><![CDATA[8. 이니스프리 노세범 미네랄 파우더 5g+이니스프리 노세범 미네랄 파우더 5g]]></text>
       </value>
   </optionItem>
 </option>

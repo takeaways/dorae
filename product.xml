@@ -1,32 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
 <products>
-<product>
-<id>0000003069</id>
-<name>[단독특가] 퍼스트 오토 젤 라이너 1+1</name>
-<basePrice>6900</basePrice>
-<infoUrl>http://wallavu.com/shop/goodsView/0000003069</infoUrl>
-<imageUrl>https://cdn.wallavu.com/data/sejong_data/images/product/00/00/00/30/69/m_0000003069.gif</imageUrl>
-<optionSupport>true</optionSupport>
-<shippingPolicy>
-<groupId>132</groupId>
-<method>DELIVERY</method>
-<feePayType>PREPAYED</feePayType>
-<feeType>FREE</feeType>
-<feePrice>0</feePrice>
-  <surchargeByArea>
-      <splitUnit>3</splitUnit>
-      <area2Price>3000</area2Price>
-      <area3Price>3000</area3Price>
-  </surchargeByArea>
-</shippingPolicy>
-<option>
-  <optionItem>
-      <type>SELECT</type>
-      <name>옵션</name>
-      <value>
-          <id>14453</id>
-          <text><![CDATA[옵션:초코브라운+모카브라운]]></text>
-      </value>
-  </optionItem>
-</option>
-</product>
+	<product>
+	  <id>22274</id>
+	  <merchantProductId></merchantProductId>
+	  <name><![CDATA[해동조구 카리스마 EVA 2단 줌 롯드거치대 HT-1038 ]]></name>
+	  <basePrice>32000</basePrice>
+	  <infoUrl><![CDATA[http://klfishing.com/shop_item_view.php?ac_id=1111&ai_id=22274]]></infoUrl>
+	  <imageUrl><![CDATA[/img/item_new/2019-09-23/item_300_22155_1569205924.jpg]]></imageUrl>
+	  <returnInfo>
+	  <zipcode>41055</zipcode>
+	  <address1><![CDATA[대구시 동구 부동]]></address1>
+	  <address2><![CDATA[633-1]]></address2>
+	  <sellername><![CDATA[코러낚시]]></sellername>
+	  <contact1>15886366</contact1>
+	  </returnInfo>
+	  <shippingPolicy>
+	  <method>DELIVERY</method>
+	  <feeType>CONDITIONAL_FREE</feeType>
+	  <feePayType>FREE</feePayType>
+	  <feePrice>2500</feePrice>
+	  <conditionalFree>
+	  <basePrice>50000</basePrice>
+	  </conditionalFree>
+	  </shippingPolicy>
+	</product>
 </products>

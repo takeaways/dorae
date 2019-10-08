@@ -2,12 +2,32 @@
 <products>
 	<product>
   <id>22132</id>
-  <merchantProductId></merchantProductId>
+  <merchantProductId>8809546188485</merchantProductId>+
   <name><![CDATA[픽토리 타이드닷지 타이라바 헤드 2개입 120g FIC-TIRH20]]></name>
-  <basePrice></basePrice>
+  <basePrice>5820</basePrice>+
+	<optionSupport>true</optionSupport>+
   <infoUrl><![CDATA[http://klfishing.com/shop_item_view.php?ac_id=364&ai_id=22132]]></infoUrl>
   <imageUrl><![CDATA[http://klfishing.com/img/item_new/2019-07-31/item_300_66922_1566205774.jpg]]></imageUrl>
-    <returnInfo>
+	<option>
+		<optionItem>
+			<type>SELECT</type>
+			<name><![CDATA[선택규격]]></name>
+			<value>
+				<id>8809546188485</id>
+				<text><![CDATA[레드 2개입]]></text>
+			</value>
+		<optionItem>
+		<combination>
+			<manageCode><![CDATA[8809546188485]]></manageCode>
+			<price>0</price>
+			<options>
+				<name><![CDATA[레드 2개입]]></name>
+				<id>8809546188485</id>
+			</options>
+		</combination>
+	</option>
+
+	<returnInfo>
   <zipcode>41055</zipcode>
   <address1><![CDATA[대구시 동구 부동]]></address1>
   <address2><![CDATA[633-1]]></address2>

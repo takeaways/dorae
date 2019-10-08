@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
+	<product>
   <id>22132</id>
   <merchantProductId></merchantProductId>
   <name><![CDATA[픽토리 타이드닷지 타이라바 헤드 2개입 120g FIC-TIRH20]]></name>
@@ -22,4 +23,5 @@
   <basePrice>50000</basePrice>
   </conditionalFree>
   </shippingPolicy>
+	</product>
 </products>

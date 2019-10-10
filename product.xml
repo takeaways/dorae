@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
+	<product>
   <id>62167</id>
   <merchantProductId>8809546189604</merchantProductId>
   <name><![CDATA[픽토리 마그네틱 카라비너 FIC-KB10]]></name>
@@ -43,4 +44,5 @@
   <basePrice>50000</basePrice>
   </conditionalFree>
   </shippingPolicy>
+	</product>
 </products>

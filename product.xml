@@ -1,48 +1,25 @@
-<?xml version="1.0" encoding="utf-8"?>
-<products>
-	<product>
-  <id>62167</id>
-  <merchantProductId>8809546189604</merchantProductId>
-  <name><![CDATA[픽토리 마그네틱 카라비너 FIC-KB10]]></name>
-  <basePrice>4900</basePrice>
-  <optionSupport>true</optionSupport>
-  <infoUrl><![CDATA[http://klfishing.com/shop_item_view.php?ac_id=1105&ai_id=21723]]></infoUrl>
-  <imageUrl><![CDATA[http://klfishing.com/img/item_new/2019-05-15/item_300_86815_1557909057.jpg]]></imageUrl>
-  <option>
-  <optionItem>
-  <type>SELECT</type>
-  <name><![CDATA[선택규격]]></name>
-  <value>
-  <id>8809546189604</id>
-  <text><![CDATA[블루]]></text>
-  </value>
-  </optionItem>
-
-  <combination>
-  <manageCode><![CDATA[8809546189604]]></manageCode>
-  <price>0</price>
-  <options>
-  <name><![CDATA[선택규격]]></name>
-  <id>8809546189604</id>
-  </options>
-  </combination>
-
-  </option>
-  <returnInfo>
-  <zipcode>41055</zipcode>
-  <address1><![CDATA[대구시 동구 부동]]></address1>
-  <address2><![CDATA[633-1]]></address2>
-  <sellername><![CDATA[코러낚시]]></sellername>
-  <contact1>15886366</contact1>
-  </returnInfo>
-  <shippingPolicy>
-  <method>DELIVERY</method>
-  <feeType>CONDITIONAL_FREE</feeType>
-  <feePayType>FREE</feePayType>
-  <feePrice>2500</feePrice>
-  <conditionalFree>
-  <basePrice>50000</basePrice>
-  </conditionalFree>
-  </shippingPolicy>
-	</product>
-</products>
+<meta http-equiv='Refresh' content='0; URL=/?lanOk=kor'>
+  <?xml version="1.0" encoding="UTF-8"?>
+  <response>
+    <item id="1561051725">
+      <name><![CDATA[반영구색소_다크블랙_10ml]]></name>
+      <url>http://familyfactory.kr/shop/item.php?it_id=1561051725</url>
+      <description><![CDATA[안전한 원료를 수입하여 국내에서 제조한 무독성의 안전한 색소]]></description>
+      <image>http://familyfactory.kr/data/item/1561051725/DARKBLACK.png</image>
+      <thumb>http://familyfactory.kr/data/item/1561051725/DARKBLACK.png</thumb>
+      <price>35000</price>
+      <quantity>999</quantity>
+      <category>
+        <first id="MJ01"><![CDATA[반영구색소]]></first>
+        <second id="ML01"><![CDATA[]]></second>
+        <third id="MN01"><![CDATA[]]></third>
+      </category>
+      <returnInfo>
+        <zipcode><![CDATA[14035]]></zipcode>
+        <address1><![CDATA[충남 당진시 정미면 중간아랫말길 100]]></address1>
+        <address2><![CDATA[ ]]></address2>
+        <sellername><![CDATA[패밀리팩토리]]></sellername>
+        <contact1><![CDATA[ 031-383-0704]]></contact1>
+      </returnInfo>
+    </item>
+  </response>

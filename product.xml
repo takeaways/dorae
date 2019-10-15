@@ -1,25 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<response>
-<meta http-equiv="Refresh" content="0; URL=/?lanOk=kor"/>
-<item id="1561051725">
-<name><![CDATA[반영구색소_다크블랙_10ml]]></name>
-<url>http://familyfactory.kr/shop/item.php?it_id=1561051725</url>
-<description><![CDATA[안전한 원료를 수입하여 국내에서 제조한 무독성의 안전한 색소]]></description>
-<image>http://familyfactory.kr/data/item/1561051725/DARKBLACK.png</image>
-<thumb>http://familyfactory.kr/data/item/1561051725/DARKBLACK.png</thumb>
-<price>35000</price>
-<quantity>999</quantity>
+<?xml version="1.0" encoding="UTF-8"?><response>
+<item id="1568993928">
+<name><![CDATA[체다치즈&화이트체다치즈쿠키60g]]></name>
+<url>http://www.cookieyang.com/shop/item.php?it_id=1568993928</url>
+<description><![CDATA[△신제품▲]]></description>
+<image>http://www.cookieyang.com/data/item/1568993928/7LK064uk7LmY7KaI_66mU7J2401.jpg</image>
+<thumb>http://www.cookieyang.com/data/item/1568993928/7LK064uk7LmY7KaI_66mU7J2401.jpg</thumb>
+<price>2500</price>
+<quantity>9999</quantity>
 <category>
-<first id="MJ01"><![CDATA[반영구색소]]></first>
-<second id="ML01"><![CDATA[]]></second>
-<third id="MN01"><![CDATA[]]></third>
+<first id="MJ01"><![CDATA[쿠키양]]></first>
+<second id="ML01"><![CDATA[쿠키양]]></second>
+<third id="MN01"><![CDATA[쿠키양]]></third>
 </category>
-<returnInfo>
-<zipcode><![CDATA[14035]]></zipcode>
-<address1><![CDATA[충남 당진시 정미면 중간아랫말길 100]]></address1>
-<address2><![CDATA[ ]]></address2>
-<sellername><![CDATA[패밀리팩토리]]></sellername>
-<contact1><![CDATA[ 031-383-0704]]></contact1>
-</returnInfo>
-</item>
+<options><option name="체다&화이트체다">
+<select><![CDATA[1개]]></select>
+</option>
+</options><returnInfo><zipcode><![CDATA[15234]]></zipcode><address1><![CDATA[경기도안산시 단원구 선부로 166 공작한양아파트 133-802]]></address1><address2><![CDATA[ ]]></address2><sellername><![CDATA[쿠키양]]></sellername><contact1><![CDATA[010.4353.0225]]></contact1></returnInfo></item>
 </response>

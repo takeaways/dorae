@@ -12,7 +12,7 @@
 <second id="ML01"><![CDATA[쿠키양]]></second>
 <third id="MN01"><![CDATA[쿠키양]]></third>
 </category>
-<options><option name="체다&name;화이트체다">
+<options><option name="체다&amp;화이트체다">
 <select><![CDATA[1개]]></select>
 </option>
 </options><returnInfo><zipcode><![CDATA[15234]]></zipcode><address1><![CDATA[경기도안산시 단원구 선부로 166 공작한양아파트 133-802]]></address1><address2><![CDATA[ ]]></address2><sellername><![CDATA[쿠키양]]></sellername><contact1><![CDATA[010.4353.0225]]></contact1></returnInfo></item>

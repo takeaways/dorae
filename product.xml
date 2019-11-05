@@ -83,39 +83,40 @@
 </surchargeByArea>
 </shippingPolicy>
 <option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[수령방법]]></name>
-<value>
-<id>S_891a6b892760f715da5deeca861488</id>
-<text><![CDATA[화물택배]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[요청사항]]></name>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[가로/세로]]></name>
-</optionItem>
-<combination>
-<manageCode>option15145</manageCode>
-<stockQuantity>990</stockQuantity>
-<options>
-<name><![CDATA[수령방법]]></name>
-<id>S_891a6b892760f715da5deeca861488</id>
-</options>
-<options>
-<name><![CDATA[요청사항]]></name>
-<id>T395</id>
-</options>
-<options>
-<name><![CDATA[가로/세로]]></name>
-<id>300300</id>
-</options>
-<price>3500</price>
-</combination>
+	<optionItem>
+	<type>SELECT</type>
+	<name><![CDATA[수령방법]]></name>
+	<value>
+	<id>S_891a6b892760f715da5deeca861488</id>
+	<text><![CDATA[화물택배]]></text>
+	</value>
+	</optionItem>
+	<optionItem>
+	<type>INPUT</type>
+	<name><![CDATA[요청사항]]></name>
+	</optionItem>
+	<optionItem>
+	<type>INPUT</type>
+	<name><![CDATA[가로/세로]]></name>
+	</optionItem>
+
+	<combination>
+	<manageCode>option15146</manageCode>
+	<stockQuantity>990</stockQuantity>
+	<options>
+	<name><![CDATA[수령방법]]></name>
+	<id>S_891a6b892760f715da5deeca861488</id>
+	</options>
+	<options>
+	<name><![CDATA[요청사항]]></name>
+	<id>T395</id>
+	</options>
+	<options>
+	<name><![CDATA[가로/세로]]></name>
+	<id>300300</id>
+	</options>
+	<price>3500</price>
+	</combination>
 </option>
 </product>
 </products>

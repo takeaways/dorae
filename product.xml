@@ -1,70 +1,80 @@
 <products>
-
-
-<product>
-<id>1000000403</id>
-<ecMallProductId>1000000403</ecMallProductId>
-<name><![CDATA[18T MDF 화이트 페리스 UV코팅 (하이그로시) / 화이트 페리스 LPM 30U E1]]></name>
-<basePrice>0</basePrice>
-<taxType>TAX</taxType>
-<infoUrl><![CDATA[http://cubeframe.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000403]]></infoUrl>
-<imageUrl><![CDATA[http://cubeframe.co.kr/data/goods/19/08/35/1000000403/1000000403_main_013.jpg]]></imageUrl>
-<status>ON_SALE</status>
-<supplementSupport>false</supplementSupport>
-<optionSupport>true</optionSupport>
-<shippingPolicy>
-<method>DELIVERY</method>
-<groupId>11</groupId>
-<feePayType>CASH_ON_DELIVERY</feePayType>
-<feePrice>0</feePrice>
-<feeType>CHARGE</feeType>
-<surchargeByArea>
-<splitUnit>3</splitUnit>
-<area2Price>6000</area2Price>
-<area3Price>6000</area3Price>
-</surchargeByArea>
-</shippingPolicy>
-<option>
-<optionItem>
-<type>SELECT</type>
-<name><![CDATA[수령방법]]></name>
-<value>
-<id>S_891a6b892760f715da5deeca861488</id>
-<text><![CDATA[화물택배]]></text>
-</value>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[요청사항]]></name>
-</optionItem>
-<optionItem>
-<type>INPUT</type>
-<name><![CDATA[가로/세로]]></name>
-</optionItem>
-<combination>
-<manageCode>option15148</manageCode>
-<stockQuantity>990</stockQuantity>
-<options>
-<name><![CDATA[수령방법]]></name>
-<id>S_891a6b892760f715da5deeca861488</id>
-</options>
-<options>
-<name><![CDATA[요청사항]]></name>
-<id>T395</id>
-</options>
-<options>
-<name><![CDATA[가로/세로]]></name>
-<id>300300</id>
-</options>
-<price>5000</price>
-</combination>
-</option>
-</product>
-
-
-
-
-
+	<product>
+		<id>1000000403</id>
+		<ecMallProductId>1000000403</ecMallProductId>
+		<name><![CDATA[18T MDF 화이트 페리스 UV코팅 (하이그로시) / 화이트 페리스 LPM 30U E1]]></name>
+		<basePrice>0</basePrice>
+		<taxType>TAX</taxType>
+		<infoUrl><![CDATA[http://cubeframe.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000403]]></infoUrl>
+		<imageUrl><![CDATA[http://cubeframe.co.kr/data/goods/19/08/35/1000000403/1000000403_main_013.jpg]]></imageUrl>
+		<status>ON_SALE</status>
+		<supplementSupport>false</supplementSupport>
+		<optionSupport>true</optionSupport>
+		<shippingPolicy>
+			<method>DELIVERY</method>
+			<groupId>11</groupId>
+			<feePayType>CASH_ON_DELIVERY</feePayType>
+			<feePrice>0</feePrice>
+			<feeType>CHARGE</feeType>
+			<surchargeByArea>
+				<splitUnit>3</splitUnit>
+				<area2Price>6000</area2Price>
+				<area3Price>6000</area3Price>
+			</surchargeByArea>
+		</shippingPolicy>
+		<option>
+			<optionItem>
+				<type>SELECT</type>
+				<name><![CDATA[수령방법]]></name>
+				<value>
+					<id>S_891a6b892760f715da5deeca861488</id>
+					<text><![CDATA[화물택배]]></text>
+				</value>
+			</optionItem>
+			<optionItem>
+				<type>INPUT</type>
+				<name><![CDATA[요청사항]]></name>
+			</optionItem>
+			<optionItem>
+				<type>INPUT</type>
+				<name><![CDATA[가로/세로]]></name>
+			</optionItem>
+			<combination>
+				<manageCode>option15145</manageCode>
+				<stockQuantity>990</stockQuantity>
+				<options>
+					<name><![CDATA[수령방법]]></name>
+					<id>S_891a6b892760f715da5deeca861488</id>
+				</options>
+				<options>
+					<name><![CDATA[요청사항]]></name>
+					<id>T395</id>
+				</options>
+				<options>
+					<name><![CDATA[가로/세로]]></name>
+					<id>500500</id>
+				</options>
+				<price>6300</price>
+			</combination>
+				<combination>
+				<manageCode>option15148</manageCode>
+				<stockQuantity>990</stockQuantity>
+				<options>
+					<name><![CDATA[수령방법]]></name>
+					<id>S_891a6b892760f715da5deeca861488</id>
+				</options>
+				<options>
+					<name><![CDATA[요청사항]]></name>
+					<id>T395</id>
+				</options>
+				<options>
+					<name><![CDATA[가로/세로]]></name>
+					<id>300300</id>
+				</options>
+				<price>5000</price>
+			</combination>
+		</option>
+	</product>
 
 
 </products>

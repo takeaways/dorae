@@ -58,6 +58,8 @@
 </combination>
 </option>
 </product>
+
+
 <product>
 <id>1000000403</id>
 <ecMallProductId>1000000403</ecMallProductId>
@@ -99,7 +101,7 @@
 <name><![CDATA[가로/세로]]></name>
 </optionItem>
 <combination>
-<manageCode>option15145</manageCode>
+<manageCode>option15148</manageCode>
 <stockQuantity>990</stockQuantity>
 <options>
 <name><![CDATA[수령방법]]></name>
@@ -111,9 +113,9 @@
 </options>
 <options>
 <name><![CDATA[가로/세로]]></name>
-<id>500500</id>
+<id>300300</id>
 </options>
-<price>6300</price>
+<price>5000</price>
 </combination>
 </option>
 </product>

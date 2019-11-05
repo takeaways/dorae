@@ -4,7 +4,7 @@
 <id>1000000403</id>
 <ecMallProductId>1000000403</ecMallProductId>
 <name><![CDATA[18T MDF 화이트 페리스 UV코팅 (하이그로시) / 화이트 페리스 LPM 30U E1]]></name>
-<basePrice>0</basePrice>
+<basePrice>100</basePrice>
 <taxType>TAX</taxType>
 <infoUrl><![CDATA[http://cubeframe.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000403]]></infoUrl>
 <imageUrl><![CDATA[http://cubeframe.co.kr/data/goods/19/08/35/1000000403/1000000403_main_013.jpg]]></imageUrl>
@@ -65,7 +65,7 @@
 <id>1000000403</id>
 <ecMallProductId>1000000403</ecMallProductId>
 <name><![CDATA[18T MDF 화이트 페리스 UV코팅 (하이그로시) / 화이트 페리스 LPM 30U E1]]></name>
-<basePrice>0</basePrice>
+<basePrice>100</basePrice>
 <taxType>TAX</taxType>
 <infoUrl><![CDATA[http://cubeframe.co.kr/goods/goods_view.php?inflow=naverPay&goodsNo=1000000403]]></infoUrl>
 <imageUrl><![CDATA[http://cubeframe.co.kr/data/goods/19/08/35/1000000403/1000000403_main_013.jpg]]></imageUrl>
@@ -101,6 +101,8 @@
 <type>INPUT</type>
 <name><![CDATA[가로/세로]]></name>
 </optionItem>
+
+
 <combination>
 <manageCode>option15145</manageCode>
 <stockQuantity>990</stockQuantity>

@@ -57,7 +57,7 @@
 <price>6300</price>
 </combination>
 <combination>
-<manageCode>option15148</manageCode>
+<manageCode>option15145</manageCode>
 <stockQuantity>990</stockQuantity>
 <options>
 <name><![CDATA[수령방법]]></name>
@@ -69,7 +69,7 @@
 </options>
 <options>
 <name><![CDATA[가로/세로]]></name>
-<id>300300</id>
+<id>500500</id>
 </options>
 <price>3500</price>
 </combination>
